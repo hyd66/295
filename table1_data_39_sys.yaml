@@ -1,0 +1,236 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0, high: 0.004}
+  - {low: 0.004, high: 0.008}
+  - {low: 0.008, high: 0.012}
+  - {low: 0.012, high: 0.016}
+  - {low: 0.016, high: 0.020}
+  - {low: 0.020, high: 0.024}
+  - {low: 0.024, high: 0.028}
+  - {low: 0.028, high: 0.032}
+  - {low: 0.032, high: 0.036}
+  - {low: 0.036, high: 0.040}
+  - {low: 0.040, high: 0.044}
+  - {low: 0.044, high: 0.048}
+  - {low: 0.048, high: 0.052}
+  - {low: 0.052, high: 0.056}
+  - {low: 0.056, high: 0.060}
+  - {low: 0.060, high: 0.064}
+  - {low: 0.064, high: 0.068}
+  - {low: 0.068, high: 0.072}
+  - {low: 0.072, high: 0.076}
+  - {low: 0.076, high: 0.080}
+  - {low: 0.080, high: 0.084}
+  - {low: 0.084, high: 0.088}
+  - {low: 0.088, high: 0.092}
+  - {low: 0.092, high: 0.096}
+  - {low: 0.096, high: 0.100}
+  - {low: 0.100, high: 0.104}
+  - {low: 0.104, high: 0.108}
+  - {low: 0.108, high: 0.112}
+  - {low: 0.112, high: 0.116}
+  - {low: 0.116, high: 0.124}
+  - {low: 0.124, high: 0.132}
+  - {low: 0.132, high: 0.144}
+  - {low: 0.144, high: 0.156}
+  - {low: 0.156, high: 0.176}
+  - {low: 0.176, high: 0.208}
+  - {low: 0.208, high: 0.264}
+  - {low: 0.264, high: 0.400}
+  - {low: 0.400, high: 0.696}
+  - {low: 0.696, high: 0.780}
+  - {low: 0.780, high: 0.786}
+  - {low: 0.786, high: 0.792}
+  - {low: 0.792, high: 0.820}
+  - {low: 0.820, high: 1.008}
+  - {low: 1.008, high: 1.016}
+  - {low: 1.016, high: 1.020}
+  - {low: 1.020, high: 1.028}
+  - {low: 1.028, high: 1.200}
+  - {low: 1.200, high: 2.100}
+  - {low: 2.100, high: 2.880}
+  - {low: 2.880, high: 3.060}
+  - {low: 3.060, high: 3.076}
+  - {low: 3.076, high: 3.088}
+  - {low: 3.088, high: 3.096}
+  - {low: 3.096, high: 3.112}
+  - {low: 3.112, high: 3.132}
+  - {low: 3.132, high: 3.348}
+  - {low: 3.348, high: 3.600}
+dependent_variables:
+- header: {name: 'dN/dM/Nevt[1/(GeV/c^2)]'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'data_39Gev_sys_Uncert'}
+  values:
+  - value: 4.94
+    errors:
+    - {asymerror: {plus: 0.385, minus: -0.38}, label: 'sys'}
+  - value: 2.919E+00
+    errors:
+    - {asymerror: {plus: 2.26E-01, minus: -2.26E-01}, label: 'sys'}
+  - value: 1.477E+00
+    errors:
+    - {asymerror: {plus: 1.14E-01, minus: -1.14E-01}, label: 'sys'}
+  - value: 9.954E-01
+    errors:
+    - {asymerror: {plus: 7.66E-02, minus: -7.71E-02}, label: 'sys'}
+  - value: 7.472E-01
+    errors:
+    - {asymerror: {plus: 5.79E-02, minus: -5.78E-02}, label: 'sys'}
+  - value: 5.862E-01
+    errors:
+    - {asymerror: {plus: 4.54E-02, minus: -4.54E-02}, label: 'sys'}
+  - value: 4.827E-01
+    errors:
+    - {asymerror: {plus: 3.74E-02, minus: -3.73E-02}, label: 'sys'}
+  - value: 4.111E-01
+    errors:
+    - {asymerror: {plus: 3.19E-02, minus: -3.18E-02}, label: 'sys'}
+  - value: 3.560E-01
+    errors:
+    - {asymerror: {plus: 2.76E-02, minus: -2.76E-02}, label: 'sys'}
+  - value: 3.092E-01
+    errors:
+    - {asymerror: {plus: 2.4E-02, minus: -2.39E-02}, label: 'sys'}
+  - value: 2.680E-01
+    errors:
+    - {asymerror: {plus: 2.08E-02, minus: -2.07E-02}, label: 'sys'}
+  - value: 2.386E-01
+    errors:
+    - {asymerror: {plus: 1.85E-02, minus: -1.85E-02}, label: 'sys'}
+  - value: 2.169E-01
+    errors:
+    - {asymerror: {plus: 1.67E-02, minus: -1.68E-02}, label: 'sys'}
+  - value: 1.833E-01
+    errors:
+    - {asymerror: {plus: 1.42E-02, minus: -1.42E-02}, label: 'sys'}
+  - value: 1.703E-01
+    errors:
+    - {asymerror: {plus: 1.31E-02, minus: -1.32E-02}, label: 'sys'}
+  - value: 1.498E-01
+    errors:
+    - {asymerror: {plus: 1.16E-02, minus: -1.16E-02}, label: 'sys'}
+  - value: 1.326E-01
+    errors:
+    - {asymerror: {plus: 1.03E-02, minus: -1.02E-02}, label: 'sys'}
+  - value: 1.158E-01
+    errors:
+    - {asymerror: {plus: 8.9E-03, minus: -9E-03}, label: 'sys'}
+  - value: 1.036E-01
+    errors:
+    - {asymerror: {plus: 8E-03, minus: -8.06E-03}, label: 'sys'}
+  - value: 9.299E-02
+    errors:
+    - {asymerror: {plus: 7.21E-03, minus: -7.2E-03}, label: 'sys'}
+  - value: 8.218E-02
+    errors:
+    - {asymerror: {plus: 6.36E-03, minus: -6.36E-03}, label: 'sys'}
+  - value: 6.442E-02
+    errors:
+    - {asymerror: {plus: 4.99E-03, minus: -4.99E-03}, label: 'sys'}
+  - value: 5.753E-02
+    errors:
+    - {asymerror: {plus: 4.46E-03, minus: -4.45E-03}, label: 'sys'}
+  - value: 5.269E-02
+    errors:
+    - {asymerror: {plus: 4.08E-03, minus: -4.08E-03}, label: 'sys'}
+  - value: 4.231E-02
+    errors:
+    - {asymerror: {plus: 3.28E-03, minus: -3.27E-03}, label: 'sys'}
+  - value: 3.878E-02
+    errors:
+    - {asymerror: {plus: 3.01E-03, minus: -3E-03}, label: 'sys'}
+  - value: 3.361E-02
+    errors:
+    - {asymerror: {plus: 2.61E-03, minus: -2.6E-03}, label: 'sys'}
+  - value: 2.418E-02
+    errors:
+    - {asymerror: {plus: 1.87E-03, minus: -1.88E-03}, label: 'sys'}
+  - value: 2.177E-02
+    errors:
+    - {asymerror: {plus: 1.71E-03, minus: -1.72E-03}, label: 'sys'}
+  - value: 1.522E-02
+    errors:
+    - {asymerror: {plus: 1.18E-03, minus: -1.18E-03}, label: 'sys'}
+  - value: 1.404E-02
+    errors:
+    - {asymerror: {plus: 1.09E-03, minus: -1.09E-03}, label: 'sys'}
+  - value: 1.186E-02
+    errors:
+    - {asymerror: {plus: 9.2E-04, minus: -9.2E-04}, label: 'sys'}
+  - value: 1.250E-02
+    errors:
+    - {asymerror: {plus: 9.7E-04, minus: -9.7E-04}, label: 'sys'}
+  - value: 1.077E-02
+    errors:
+    - {asymerror: {plus: 8.4E-04, minus: -8.34E-04}, label: 'sys'}
+  - value: 8.586E-03
+    errors:
+    - {asymerror: {plus: 6.67E-04, minus: -6.68E-04}, label: 'sys'}
+  - value: 7.879E-03
+    errors:
+    - {asymerror: {plus: 6.1E-04, minus: -6.1E-04}, label: 'sys'}
+  - value: 5.576E-03
+    errors:
+    - {asymerror: {plus: 4.32E-04, minus: -4.32E-04}, label: 'sys'}
+  - value: 3.221E-03
+    errors:
+    - {asymerror: {plus: 2.74E-04, minus: -2.74E-04}, label: 'sys'}
+  - value: 3.941E-03
+    errors:
+    - {asymerror: {plus: 3.3E-04, minus: -3.31E-04}, label: 'sys'}
+  - value: 1.384E-02
+    errors:
+    - {asymerror: {plus: 1.1E-03, minus: -1.09E-03}, label: 'sys'}
+  - value: 7.668E-03
+    errors:
+    - {asymerror: {plus: 6.59E-04, minus: -6.59E-04}, label: 'sys'}
+  - value: 2.374E-03
+    errors:
+    - {asymerror: {plus: 2.08E-04, minus: -2.07E-04}, label: 'sys'}
+  - value: 1.051E-03
+    errors:
+    - {asymerror: {plus: 9.5E-05, minus: -9.58E-05}, label: 'sys'}
+  - value: 7.309E-03
+    errors:
+    - {asymerror: {plus: 5.74E-04, minus: -5.74E-04}, label: 'sys'}
+  - value: 1.280E-02
+    errors:
+    - {asymerror: {plus: 1.01E-03, minus: -1.01E-03}, label: 'sys'}
+  - value: 6.401E-03
+    errors:
+    - {asymerror: {plus: 5.22E-04, minus: -5.22E-04}, label: 'sys'}
+  - value: 8.874E-04
+    errors:
+    - {asymerror: {plus: 9.73E-05, minus: -9.74E-05}, label: 'sys'}
+  - value: 8.310E-05
+    errors:
+    - {asymerror: {plus: 1.210E-05, minus: -1.209E-05}, label: 'sys'}
+  - value: 1.558E-05
+    errors:
+    - {asymerror: {plus: 3.62E-06, minus: -3.62E-06}, label: 'sys'}
+  - value: 1.255E-05
+    errors:
+    - {asymerror: {plus: 7.53E-06, minus: -7.532E-06}, label: 'sys'}
+  - value: 2.455E-04
+    errors:
+    - {asymerror: {plus: 6.13E-05, minus: -6.14E-05}, label: 'sys'}
+  - value: 4.178E-04
+    errors:
+    - {asymerror: {plus: 1.218E-04, minus: -1.218E-04}, label: 'sys'}
+  - value: 5.058E-04
+    errors:
+    - {asymerror: {plus: 1.265E-04, minus: -1.264E-04}, label: 'sys'}
+  - value: 2.694E-04
+    errors:
+    - {asymerror: {plus: 5.13E-05, minus: -5.14E-05}, label: 'sys'}
+  - value: 2.934E-04
+    errors:
+    - {asymerror: {plus: 5.41E-05, minus: -5.41E-05}, label: 'sys'}
+  - value: 1.075E-05
+    errors:
+    - {asymerror: {plus: 5.56E-06, minus: -5.556E-06}, label: 'sys'}
+  - value: 8.930E-06
+    errors:
+    - {asymerror: {plus: 5.1E-06, minus: -5.102E-06}, label: 'sys'}

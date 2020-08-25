@@ -1,0 +1,108 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0, high: 0.01}
+  - {low: 0.010, high: 0.020}
+  - {low: 0.020, high: 0.030}
+  - {low: 0.030, high: 0.040}
+  - {low: 0.040, high: 0.050}
+  - {low: 0.050, high: 0.060}
+  - {low: 0.060, high: 0.070}
+  - {low: 0.070, high: 0.080}
+  - {low: 0.080, high: 0.090}
+  - {low: 0.090, high: 0.100}
+  - {low: 0.100, high: 0.110}
+  - {low: 0.110, high: 0.125}
+  - {low: 0.125, high: 0.160}
+  - {low: 0.160, high: 0.210}
+  - {low: 0.210, high: 0.280}
+  - {low: 0.280, high: 0.400}
+  - {low: 0.400, high: 0.510}
+  - {low: 0.510, high: 0.630}
+  - {low: 0.630, high: 0.730}
+  - {low: 0.730, high: 0.900}
+  - {low: 0.900, high: 1.150}
+  - {low: 1.150, high: 1.240}
+  - {low: 1.240, high: 1.425}
+  - {low: 1.425, high: 1.650}
+  - {low: 1.650, high: 1.825}
+dependent_variables:
+- header: {name: 'Ratio'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'ratio_data_to_cocktail_39Gev'}
+  values:
+  - value: 1
+    errors:
+    - {asymerror: {plus: 0.111, minus: -0.1113}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.11E-01, minus: -1.113E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.11E-01, minus: -1.114E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.11E-01, minus: -1.115E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.12E-01, minus: -1.116E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.12E-01, minus: -1.118E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.12E-01, minus: -1.121E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.13E-01, minus: -1.125E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.13E-01, minus: -1.132E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.14E-01, minus: -1.145E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.17E-01, minus: -1.168E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.21E-01, minus: -1.214E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.28E-01, minus: -1.284E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.32E-01, minus: -1.321E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.39E-01, minus: -1.389E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 1.59E-01, minus: -1.590E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 2.400E-01, minus: -2.397E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 4.09E-01, minus: -4.086E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 3.34E-01, minus: -3.340E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 8.59E-01, minus: -8.587E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 9.48E-01, minus: -9.4769E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 4.22E-01, minus: -4.217E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 4.36E-01, minus: -4.362E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 5.09E-01, minus: -5.094E-01}, label: 'cocktail'}
+  - value: 1.000E+00
+    errors:
+    - {asymerror: {plus: 5.03E-01, minus: -5.031E-01}, label: 'cocktail'}

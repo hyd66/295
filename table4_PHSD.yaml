@@ -1,0 +1,18 @@
+independent_variables:
+- header: {name: 'sqrt{s_{NN}} [GeV]'}
+  values:
+  - {value: 19.6}
+  - {value: 27}
+  - {value: 39}
+  - {value: 62.4}
+  - {value: 200}
+dependent_variables:
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'PHSD'}
+  values:
+  - value: 6.23E-06
+  - value: 7.15E-06
+  - value: 7.69E-06
+  - value: 7.39E-06
+  - value: 9.64E-06

@@ -1,0 +1,128 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0, high: 0.01}
+  - {low: 0.01, high: 0.02}
+  - {low: 0.02, high: 0.03}
+  - {low: 0.03, high: 0.04}
+  - {low: 0.04, high: 0.05}
+  - {low: 0.05, high: 0.06}
+  - {low: 0.06, high: 0.07}
+  - {low: 0.07, high: 0.08}
+  - {low: 0.08, high: 0.09}
+  - {low: 0.09, high: 0.1}
+  - {low: 0.1, high: 0.11}
+  - {low: 0.11, high: 0.125}
+  - {low: 0.125, high: 0.16}
+  - {low: 0.16, high: 0.21}
+  - {low: 0.21, high: 0.28}
+  - {low: 0.28, high: 0.4}
+  - {low: 0.4, high: 0.51}
+  - {low: 0.51, high: 0.63}
+  - {low: 0.63, high: 0.73}
+  - {low: 0.73, high: 0.78}
+  - {low: 0.78, high: 0.785}
+  - {low: 0.785, high: 0.79}
+  - {low: 0.79, high: 0.795}
+  - {low: 0.795, high: 0.86}
+  - {low: 0.86, high: 0.9}
+  - {low: 0.9, high: 0.95}
+  - {low: 0.95, high: 1}
+  - {low: 1, high: 1.01}
+  - {low: 1.01, high: 1.015}
+  - {low: 1.015, high: 1.02}
+  - {low: 1.02, high: 1.025}
+  - {low: 1.025, high: 1.03}
+  - {low: 1.03, high: 1.04}
+  - {low: 1.04, high: 1.08}
+  - {low: 1.08, high: 1.15}
+  - {low: 1.15, high: 1.24}
+  - {low: 1.24, high: 1.425}
+  - {low: 1.425, high: 1.65}
+  - {low: 1.65, high: 1.825}
+  - {low: 1.825, high: 2}
+  - {low: 2, high: 2.2}
+  - {low: 2.2, high: 2.4}
+  - {low: 2.4, high: 2.525}
+  - {low: 2.525, high: 2.67}
+  - {low: 2.67, high: 2.825}
+  - {low: 2.825, high: 2.975}
+  - {low: 2.975, high: 3}
+  - {low: 3, high: 3.035}
+  - {low: 3.035, high: 3.055}
+  - {low: 3.055, high: 3.07}
+  - {low: 3.07, high: 3.075}
+  - {low: 3.075, high: 3.09}
+  - {low: 3.09, high: 3.095}
+  - {low: 3.095, high: 3.1}
+  - {low: 3.1, high: 3.12}
+  - {low: 3.12, high: 3.135}
+  - {low: 3.135, high: 3.21}
+  - {low: 3.21, high: 3.3}
+  - {low: 3.3, high: 3.4}
+  - {low: 3.4, high: 3.55}
+dependent_variables:
+- header: {name: 'dN/dM/Nevt[1/(GeV/c^2)]'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'Cocktail_Eta_39Gev'}
+  values:
+  - value: 0.3045
+  - value: 8.245E-02
+  - value: 4.768E-02
+  - value: 3.349E-02
+  - value: 2.571E-02
+  - value: 2.077E-02
+  - value: 1.736E-02
+  - value: 1.484E-02
+  - value: 1.291E-02
+  - value: 1.137E-02
+  - value: 1.015E-02
+  - value: 8.942E-03
+  - value: 7.111E-03
+  - value: 5.051E-03
+  - value: 3.340E-03
+  - value: 1.765E-03
+  - value: 4.629E-04
+  - value: 4.571E-06
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00
+  - value: 0.000E+00

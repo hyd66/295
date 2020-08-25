@@ -1,0 +1,220 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0, high: 0.01}
+  - {low: 0.010, high: 0.020}
+  - {low: 0.020, high: 0.030}
+  - {low: 0.030, high: 0.040}
+  - {low: 0.040, high: 0.050}
+  - {low: 0.050, high: 0.060}
+  - {low: 0.060, high: 0.070}
+  - {low: 0.070, high: 0.080}
+  - {low: 0.080, high: 0.090}
+  - {low: 0.090, high: 0.100}
+  - {low: 0.100, high: 0.110}
+  - {low: 0.1105, high: 0.1255}
+  - {low: 0.125, high: 0.175}
+  - {low: 0.1755, high: 0.2005}
+  - {low: 0.200, high: 0.310}
+  - {low: 0.310, high: 0.400}
+  - {low: 0.400, high: 0.510}
+  - {low: 0.510, high: 0.630}
+  - {low: 0.630, high: 0.750}
+  - {low: 0.750, high: 0.780}
+  - {low: 0.7805, high: 0.7855}
+  - {low: 0.7855, high: 0.7905}
+  - {low: 0.790, high: 0.800}
+  - {low: 0.800, high: 0.890}
+  - {low: 0.8905, high: 0.9655}
+  - {low: 0.9655, high: 1.000}
+  - {low: 1.005, high: 1.015}
+  - {low: 1.008, high: 1.012}
+  - {low: 1.018, high: 1.022}
+  - {low: 1.022, high: 1.038}
+  - {low: 1.032, high: 1.128}
+  - {low: 1.130, high: 1.250}
+  - {low: 1.250, high: 1.450}
+  - {low: 1.450, high: 1.650}
+  - {low: 1.647, high: 1.873}
+  - {low: 1.880, high: 2.080}
+  - {low: 2.073, high: 2.248}
+  - {low: 2.248, high: 2.472}
+  - {low: 2.475, high: 2.665}
+  - {low: 2.667, high: 2.852}
+  - {low: 2.850, high: 2.990}
+  - {low: 2.995, high: 3.025}
+  - {low: 3.022, high: 3.037}
+  - {low: 3.040, high: 3.060}
+  - {low: 3.053, high: 3.067}
+  - {low: 3.067, high: 3.072}
+  - {low: 3.073, high: 3.087}
+  - {low: 3.087, high: 3.092}
+  - {low: 3.098, high: 3.103}
+  - {low: 3.103, high: 3.117}
+  - {low: 3.113, high: 3.127}
+  - {low: 3.133, high: 3.228}
+  - {low: 3.223, high: 3.397}
+dependent_variables:
+- header: {name: 'dN/dM/Nevt[1/(GeV/c^2)]'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'data_62Gev_stat_Uncert'}
+  values:
+  - value: 8.54
+    errors:
+    - {asymerror: {plus: 0.004, minus: -0.004}, label: 'stat'}
+  - value: 2.340E+00
+    errors:
+    - {asymerror: {plus: 2E-03, minus: -2E-03}, label: 'stat'}
+  - value: 1.250E+00
+    errors:
+    - {asymerror: {plus: 2E-03, minus: -2E-03}, label: 'stat'}
+  - value: 8.180E-01
+    errors:
+    - {asymerror: {plus: 1.3E-03, minus: -1.3E-03}, label: 'stat'}
+  - value: 5.820E-01
+    errors:
+    - {asymerror: {plus: 1.2E-03, minus: -1.2E-03}, label: 'stat'}
+  - value: 4.290E-01
+    errors:
+    - {asymerror: {plus: 1.2E-03, minus: -1.2E-03}, label: 'stat'}
+  - value: 3.160E-01
+    errors:
+    - {asymerror: {plus: 1.9E-03, minus: -1.9E-03}, label: 'stat'}
+  - value: 2.370E-01
+    errors:
+    - {asymerror: {plus: 1.2E-03, minus: -1.2E-03}, label: 'stat'}
+  - value: 1.680E-01
+    errors:
+    - {asymerror: {plus: 1.2E-03, minus: -1.2E-03}, label: 'stat'}
+  - value: 1.130E-01
+    errors:
+    - {asymerror: {plus: 1.2E-03, minus: -1.2E-03}, label: 'stat'}
+  - value: 6.950E-02
+    errors:
+    - {asymerror: {plus: 1.200E-03, minus: -1.200E-03}, label: 'stat'}
+  - value: 4.420E-02
+    errors:
+    - {asymerror: {plus: 1.01E-03, minus: -1.01E-03}, label: 'stat'}
+  - value: 2.600E-02
+    errors:
+    - {asymerror: {plus: 6.000E-04, minus: -6.000E-04}, label: 'stat'}
+  - value: 2.110E-02
+    errors:
+    - {asymerror: {plus: 9.2E-04, minus: -9.3E-04}, label: 'stat'}
+  - value: 1.340E-02
+    errors:
+    - {asymerror: {plus: 4.9E-04, minus: -4.9E-04}, label: 'stat'}
+  - value: 1.030E-02
+    errors:
+    - {asymerror: {plus: 6.1E-04, minus: -6.15E-04}, label: 'stat'}
+  - value: 9.040E-03
+    errors:
+    - {asymerror: {plus: 6.32E-04, minus: -6.32E-04}, label: 'stat'}
+  - value: 7.270E-03
+    errors:
+    - {asymerror: {plus: 5.89E-04, minus: -5.89E-04}, label: 'stat'}
+  - value: 7.670E-03
+    errors:
+    - {asymerror: {plus: 5.13E-04, minus: -5.13E-04}, label: 'stat'}
+  - value: 1.180E-02
+    errors:
+    - {asymerror: {plus: 9.3E-04, minus: -9.3E-04}, label: 'stat'}
+  - value: 2.210E-02
+    errors:
+    - {asymerror: {plus: 2.23E-03, minus: -2.23E-03}, label: 'stat'}
+  - value: 2.190E-02
+    errors:
+    - {asymerror: {plus: 2.22E-03, minus: -2.22E-03}, label: 'stat'}
+  - value: 1.080E-02
+    errors:
+    - {asymerror: {plus: 1.53E-03, minus: -1.530E-03}, label: 'stat'}
+  - value: 4.310E-03
+    errors:
+    - {asymerror: {plus: 4.75E-04, minus: -4.75E-04}, label: 'stat'}
+  - value: 3.610E-03
+    errors:
+    - {asymerror: {plus: 4.59E-04, minus: -4.59E-04}, label: 'stat'}
+  - value: 5.270E-03
+    errors:
+    - {asymerror: {plus: 6.17E-04, minus: -6.17E-04}, label: 'stat'}
+  - value: 1.010E-02
+    errors:
+    - {asymerror: {plus: 9.9E-04, minus: -9.93E-04}, label: 'stat'}
+  - value: 2.120E-02
+    errors:
+    - {asymerror: {plus: 1.400E-03, minus: -1.400E-03}, label: 'stat'}
+  - value: 2.460E-02
+    errors:
+    - {asymerror: {plus: 1.31E-03, minus: -1.31E-03}, label: 'stat'}
+  - value: 1.300E-02
+    errors:
+    - {asymerror: {plus: 7.4E-04, minus: -7.4E-04}, label: 'stat'}
+  - value: 2.120E-03
+    errors:
+    - {asymerror: {plus: 2.69E-04, minus: -2.69E-04}, label: 'stat'}
+  - value: 1.480E-03
+    errors:
+    - {asymerror: {plus: 2.03E-04, minus: -2.03E-04}, label: 'stat'}
+  - value: 9.790E-04
+    errors:
+    - {asymerror: {plus: 1.24E-04, minus: -1.240E-04}, label: 'stat'}
+  - value: 7.460E-04
+    errors:
+    - {asymerror: {plus: 9.24E-05, minus: -9.24E-05}, label: 'stat'}
+  - value: 4.630E-04
+    errors:
+    - {asymerror: {plus: 6.48E-05, minus: -6.48E-05}, label: 'stat'}
+  - value: 2.580E-04
+    errors:
+    - {asymerror: {plus: 5.16E-05, minus: -5.16E-05}, label: 'stat'}
+  - value: 1.700E-04
+    errors:
+    - {asymerror: {plus: 4.31E-05, minus: -4.31E-05}, label: 'stat'}
+  - value: 9.660E-05
+    errors:
+    - {asymerror: {plus: 2.97E-05, minus: -2.970E-05}, label: 'stat'}
+  - value: 1.290E-04
+    errors:
+    - {asymerror: {plus: 2.52E-05, minus: -2.52E-05}, label: 'stat'}
+  - value: 9.110E-05
+    errors:
+    - {asymerror: {plus: 2.06E-05, minus: -2.060E-05}, label: 'stat'}
+  - value: 1.280E-04
+    errors:
+    - {asymerror: {plus: 2.000E-05, minus: -2.000E-05}, label: 'stat'}
+  - value: 2.660E-04
+    errors:
+    - {asymerror: {plus: 4.06E-05, minus: -4.06E-05}, label: 'stat'}
+  - value: 3.700E-04
+    errors:
+    - {asymerror: {plus: 5.72E-05, minus: -5.72E-05}, label: 'stat'}
+  - value: 6.370E-04
+    errors:
+    - {asymerror: {plus: 5.09E-05, minus: -5.09E-05}, label: 'stat'}
+  - value: 9.270E-04
+    errors:
+    - {asymerror: {plus: 6.11E-05, minus: -6.11E-05}, label: 'stat'}
+  - value: 1.210E-03
+    errors:
+    - {asymerror: {plus: 1.09E-04, minus: -1.09E-04}, label: 'stat'}
+  - value: 1.320E-03
+    errors:
+    - {asymerror: {plus: 6.4E-05, minus: -6.4E-05}, label: 'stat'}
+  - value: 1.610E-03
+    errors:
+    - {asymerror: {plus: 1.14E-04, minus: -1.14E-04}, label: 'stat'}
+  - value: 1.570E-03
+    errors:
+    - {asymerror: {plus: 1.13E-04, minus: -1.13E-04}, label: 'stat'}
+  - value: 1.400E-03
+    errors:
+    - {asymerror: {plus: 6.3E-05, minus: -6.3E-05}, label: 'stat'}
+  - value: 9.770E-04
+    errors:
+    - {asymerror: {plus: 5.9E-05, minus: -5.89E-05}, label: 'stat'}
+  - value: 1.480E-04
+    errors:
+    - {asymerror: {plus: 1.88E-05, minus: -1.88E-05}, label: 'stat'}
+  - value: 3.750E-05
+    errors:
+    - {asymerror: {plus: 1.160E-05, minus: -1.160E-05}, label: 'stat'}

@@ -1,0 +1,694 @@
+---
+comment: |
+  We report systematic measurements of dielectron (e±e±) invariant-mass Mee spectra at mid-rapidity in Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV taken with the STAR detector at the Relativistic Heavy Ion Collider. For all energies studied, a significant excess yield of dielectrons is observed in the low-mass region (0.40<Mee<0.75 MeV/c2) compared to hadronic cocktail simulations at freeze-out. Models that include an in-medium broadening of the ρ-meson spectral function consistently describe the observed excess. In addition, we report acceptance-corrected dielectron-excess spectra for Au+Au collisions at mid-rapidity (∣∣yee∣∣ < 1) in the 0−80% centrality bin for each collision energy. The integrated excess yields for 0.4<Mee<0.75 GeV/c2, normalized by the charged particle multiplicity at mid-rapidity, are compared with previously published measurements for Au+Au at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV. The normalized excess yields in the low-mass region show no significant collision energy dependence. The data, however, are consistent with model calculations that demonstrate a modest energy dependence.
+
+additional_resources:
+   - {description: arXiv, location: 'https://arxiv.org/abs/1810.10159'}
+   - {location: "https://drupal.star.bnl.gov/STAR/files/starpublications/295/data.html", description: "web page with data points"}
+comment: Measurements of Dielectron Production in Au+Au Collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV from the STAR Experiment
+---
+# Start a new YAML document to indicate a new data table.
+name: "Figure 1 : Cocktail total 27 Gev"
+location: Data from Figure 1 (Cocktail total 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_cocktailtotal_27.yaml
+---
+name: "Figure 1 : Cocktail total 19.6 Gev"
+location: Data from Figure 1 (Cocktail total 19.6 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_cocktailtotal_19p6.yaml
+---
+name: "Figure 1 : Cocktail total 39 Gev"
+location: Data from Figure 1 (Cocktail total 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_cocktailtotal_39.yaml
+---
+name: "Figure 1 : Cocktail total 62.4 Gev"
+location: Data from Figure 1 (Cocktail total 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_cocktailtotal_62.yaml
+---
+name: "Figure 1 : Cocktail total 200 Gev"
+location: Data from Figure 1 (Cocktail total 200 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_cocktailtotal_200.yaml
+---
+name: "Figure 1 : data with stat uncertainty 19.6 Gev"
+location: Data from Figure 1 (data stat uncert 19.6 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_19p6_stat.yaml
+---
+name: "Figure 1 : data with system uncertainty 19.6 Gev"
+location: Data from Figure 1 (data sys uncert 19.6 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_19p6_sys.yaml
+---
+name: "Figure 1 : data with stat uncertainty 27 Gev"
+location: Data from Figure 1 (data stat uncert 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_27_stat.yaml
+---
+name: "Figure 1 : data with system uncertainty 27 Gev"
+location: Data from Figure 1 (data sys uncert 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_27_sys.yaml
+---
+name: "Figure 1 : data with stat uncertainty 200 Gev"
+location: Data from Figure 1 (data stat uncert 200 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_200_stat.yaml
+---
+name: "Figure 1 : data with system uncertainty 200 Gev"
+location: Data from Figure 1 (data sys uncert 200 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_200_sys.yaml
+---
+name: "Figure 1 : data with stat uncertainty 39 Gev"
+location: Data from Figure 1 (data stat uncert 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_39_stat.yaml
+---
+name: "Figure 1 : data with system uncertainty 39 Gev"
+location: Data from Figure 1 (data sys uncert 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_39_sys.yaml
+---
+name: "Figure 1 : data with stat uncertainty 62.4 Gev"
+location: Data from Figure 1 (data stat uncert 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_62_stat.yaml
+---
+name: "Figure 1 : data with system uncertainty 62.4 Gev"
+location: Data from Figure 1 (data sys uncert 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_data_62_sys.yaml
+---
+name: "Figure 1 : hadronic cocktail for eta at 27 Gev"
+location: Data from Figure 1 (cocktail eta 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_eta_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for etaprime at 27 Gev"
+location: Data from Figure 1 (cocktail etaprime 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_etaprime_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for JPsi at 27 Gev"
+location: Data from Figure 1 (cocktail Jpsi 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_jpsi_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for omega at 27 Gev"
+location: Data from Figure 1 (cocktail omega 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_omega_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for phi at 27 Gev"
+location: Data from Figure 1 (cocktail phi 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_phi_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for pion at 27 Gev"
+location: Data from Figure 1 (cocktail pion 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_pi_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for Drell-Yan at 27 Gev"
+location: Data from Figure 1 (cocktail Drell-Yan 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_DrellYan_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for ccbar at 27 Gev"
+location: Data from Figure 1 (cocktail ccbar 27 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_ccbar_27.yaml
+---
+name: "Figure 1 : hadronic cocktail for eta at 39 Gev"
+location: Data from Figure 1 (cocktail eta 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_eta_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for etaprime at 39 Gev"
+location: Data from Figure 1 (cocktail etaprime 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_etaprime_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for JPsi at 39 Gev"
+location: Data from Figure 1 (cocktail Jpsi 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_jpsi_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for omega at 39 Gev"
+location: Data from Figure 1 (cocktail omega 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_omega_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for phi at 39 Gev"
+location: Data from Figure 1 (cocktail phi 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_phi_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for pion at 39 Gev"
+location: Data from Figure 1 (cocktail pion 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_pi_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for Drell-Yan at 39 Gev"
+location: Data from Figure 1 (cocktail Drell-Yan 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_DrellYan_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for ccbar at 39 Gev"
+location: Data from Figure 1 (cocktail ccbar 39 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_ccbar_39.yaml
+---
+name: "Figure 1 : hadronic cocktail for eta at 62.4 Gev"
+location: Data from Figure 1 (cocktail eta 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_eta_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for etaprime at 62.4 Gev"
+location: Data from Figure 1 (cocktail etaprime 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_etaprime_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for JPsi at 62.4 Gev"
+location: Data from Figure 1 (cocktail Jpsi 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_jpsi_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for omega at 62.4 Gev"
+location: Data from Figure 1 (cocktail omega 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_omega_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for phi at 62.4 Gev"
+location: Data from Figure 1 (cocktail phi 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_phi_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for pion at 62.4 Gev"
+location: Data from Figure 1 (cocktail pion 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_pi_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for Drell-Yan at 62.4 Gev"
+location: Data from Figure 1 (cocktail Drell-Yan 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_DrellYan_62.yaml
+---
+name: "Figure 1 : hadronic cocktail for ccbar at 62.4 Gev"
+location: Data from Figure 1 (cocktail ccbar 62.4 Gev)
+description: Background subtracted dielectron invariant mass spectra within the STAR acceptance from $\sqrt{s_{{NN}}}$ = 19.6, 27, 39, 62.4, and 200 GeV 0−80% most-central Au+Au collisions. Errors bars and open boxes represent the statistical and systematic uncertainties in the measurements. The black solid curves represent the hadronic cocktail with the gray bands representing the cocktail uncertainties. The curves underneath the $\sqrt{s_{{NN}}}$ = 62.4 GeV hadronic cocktail curve and gray band represent the cocktail components at 62.4 GeV.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table1_ccbar_62.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Cocktail Uncert 27Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Cocktail Uncert. - 27 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_cock_27.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Cocktail Uncert 39Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Cocktail Uncert. - 39 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_cock_39.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Cocktail Uncert 62.4Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Cocktail Uncert. - 62.4 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_cock_62.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Stat&Sys Uncert 27Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Stat&Sys Uncert. - 27 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_uncert_27.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Stat&Sys Uncert 39 Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Stat&Sys Uncert. - 39 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_uncert_39.yaml
+---
+name: "Figure 2 : Ratio Data to Cocktail - Stat&Sys Uncert 62.4Gev"
+location: Data from Figure 2 (Ratio Data to Cocktail - Stat&Sys Uncert. - 62.4 GeV)
+description: The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_uncert_62.yaml
+---
+name: "Figure 2 : Ratio Endres+Ck to Cocktail 27Gev"
+location: Data from Figure 2 (Ratio Endres+Ck to Cocktail 27 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_Endres+ck_27.yaml
+---
+name: "Figure 2 : Ratio Endres+Ck to Cocktail 39Gev"
+location: Data from Figure 2 (Ratio Endres+Ck to Cocktail 39 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_Endres+ck_39.yaml
+---
+name: "Figure 2 : Ratio Endres+Ck to Cocktail 62.4Gev"
+location: Data from Figure 2 (Ratio Endres+Ck to Cocktail 62.4 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_Endres+ck_62.yaml
+---
+name: "Figure 2 : Ratio PHSD+Ck to Cocktail 27Gev"
+location: Data from Figure 2 (Ratio PHSD+Ck to Cocktail 27 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_PHSD+ck_27.yaml
+---
+name: "Figure 2 : Ratio PHSD+Ck to Cocktail 39Gev"
+location: Data from Figure 2 (Ratio PHSD+Ck to Cocktail 39 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_PHSD+ck_39.yaml
+---
+name: "Figure 2 : Ratio PHSD+Ck to Cocktail 62.4Gev"
+location: Data from Figure 2 (Ratio PHSD+Ck to Cocktail 62.4 GeV)
+description: The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_PHSD+ck_62.yaml
+---
+name: "Figure 2 : Ratio Rapp+Ck to Cocktail 27Gev"
+location: Data from Figure 2 (Ratio Rapp+Ck to Cocktail 27 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_rapp+ck_27.yaml
+---
+name: "Figure 2 : Ratio Rapp+Ck to Cocktail 39Gev"
+location: Data from Figure 2 (Ratio Rapp+Ck to Cocktail 39 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_rapp+ck_39.yaml
+---
+name: "Figure 2 : Ratio Rapp+Ck to Cocktail 62.4Gev"
+location: Data from Figure 2 (Ratio Rapp+Ck to Cocktail 62.4 GeV)
+description:  The ratio of the invariant mass spectra to the cocktail with the ω and φ yields removed from both the data and cocktail. The gray area shows the cocktail uncertainties. Model calculations by Rapp et al., Endres et al., and PHSD were separately added to the reference cocktail and compared to the reference cocktail, via ratios, as shown with the curves.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table2_ratio_cocktail_rapp+ck_62.yaml
+---
+name: "Figure 3 : Excess data to Cocktail 27Gev"
+location: Data from Figure 3 (Excess Cocktail Uncert. -  27 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_excess_data_cocktail_uncer_27.yaml
+---
+name: "Figure 3 : Excess data to Cocktail 39Gev"
+location: Data from Figure 3 (Excess Cocktail Uncert. -  39 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27, 39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_excess_data_cocktail_uncer_39.yaml
+---
+name: "Figure 3 : Excess data to Cocktail 62.4Gev"
+location: Data from Figure 3 (Excess Cocktail Uncert. -  62.4 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_excess_data_cocktail_uncer_62.yaml
+---
+name: "Figure 3 : Excess PHSD to Cocktail 27Gev"
+location: Data from Figure 3 (Excess PHSD. -  27 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_PHSD_27.yaml
+---
+name: "Figure 3 : Excess PHSD to Cocktail 39Gev"
+location: Data from Figure 3 (Excess PHSD. -  39 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_PHSD_39.yaml
+---
+name: "Figure 3 : Excess PHSD to Cocktail 62.4Gev"
+location: Data from Figure 3 (Excess PHSD. -  62.4 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_PHSD_62.yaml
+---
+name: "Figure 3 : Excess Rapp to Cocktail 27Gev"
+location: Data from Figure 3 (Excess Rapp. -  27 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_rapp_27.yaml
+---
+name: "Figure 3 : Excess Rapp to Cocktail 39Gev"
+location: Data from Figure 3 (Excess Rapp. -  39 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_rapp_39.yaml
+---
+name: "Figure 3 : Excess Rapp to Cocktail 62.4Gev"
+location: Data from Figure 3 (Excess Rapp. -  62.4 GeV)
+description:  Acceptance-corrected dielectron excess mass spectra, normalized by dNch/dy, for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV. Model calculations (curves) are compared with the excess spectra for each energy as explained in the text. Individual components of the PHSD model calculations are only shown for Au+Au collisions at $\sqrt{s_{{NN}}}$ = 62.4 GeV. The error bars, open boxes, and filled boxes indicate statistical, systematic, and cocktail uncertainties. A 6% uncertainty on the acceptance correction is not shown.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table3_rapp_62.yaml
+---
+name: "Figure 4 : Excess yields in 0.40 - 0.75 GeV/c2"
+location: Data from Figure 4 (Data)
+description:  Collision energy dependence of the integrated dilepton excess yields in 0.4 < Mll < 0.75 GeV/c2 , normalized by dNch/dy. The closed markers represent the experimental measurements while the open markers represent the calculations from Rapp et al., Endres et al., and PHSD. For measurements at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV, the open and filled (gray) boxes represent the systematic errors in the measurements and the cocktail uncertainties, respectively. The 6% uncertainty from the acceptance correction is not included. For measurements of minimum-bias,0−80% central Au+Au collisions at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV, the open boxes represent the total systematic uncertainty in the measurements.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table4_data.yaml
+---
+name: "Figure 4 : Excess yields in 0.40 - 0.75 GeV/c2"
+location: Data from Figure 4 (Cocktail)
+description:  Collision energy dependence of the integrated dilepton excess yields in 0.4 < Mll < 0.75 GeV/c2 , normalized by dNch/dy. The closed markers represent the experimental measurements while the open markers represent the calculations from Rapp et al., Endres et al., and PHSD. For measurements at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV, the open and filled (gray) boxes represent the systematic errors in the measurements and the cocktail uncertainties, respectively. The 6% uncertainty from the acceptance correction is not included. For measurements of minimum-bias,0−80% central Au+Au collisions at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV, the open boxes represent the total systematic uncertainty in the measurements.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table4_cock.yaml
+---
+name: "Figure 4 : Excess yields in 0.40 - 0.75 GeV/c2"
+location: Data from Figure 4 (Rapp&Endres)
+description:  Collision energy dependence of the integrated dilepton excess yields in 0.4 < Mll < 0.75 GeV/c2 , normalized by dNch/dy. The closed markers represent the experimental measurements while the open markers represent the calculations from Rapp et al., Endres et al., and PHSD. For measurements at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV, the open and filled (gray) boxes represent the systematic errors in the measurements and the cocktail uncertainties, respectively. The 6% uncertainty from the acceptance correction is not included. For measurements of minimum-bias,0−80% central Au+Au collisions at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV, the open boxes represent the total systematic uncertainty in the measurements.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table4_rapp_Endres.yaml
+---
+name: "Figure 4 : Excess yields in 0.40 - 0.75 GeV/c2"
+location: Data from Figure 4 (PHSD)
+description:  Collision energy dependence of the integrated dilepton excess yields in 0.4 < Mll < 0.75 GeV/c2 , normalized by dNch/dy. The closed markers represent the experimental measurements while the open markers represent the calculations from Rapp et al., Endres et al., and PHSD. For measurements at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV, the open and filled (gray) boxes represent the systematic errors in the measurements and the cocktail uncertainties, respectively. The 6% uncertainty from the acceptance correction is not included. For measurements of minimum-bias,0−80% central Au+Au collisions at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV, the open boxes represent the total systematic uncertainty in the measurements.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table4_PHSD.yaml
+---
+name: "Figure 4 : Excess yields in 0.40 - 0.75 GeV/c2"
+location: Data from Figure 4 (NA60)
+description:  Collision energy dependence of the integrated dilepton excess yields in 0.4 < Mll < 0.75 GeV/c2 , normalized by dNch/dy. The closed markers represent the experimental measurements while the open markers represent the calculations from Rapp et al., Endres et al., and PHSD. For measurements at $\sqrt{s_{{NN}}}$ = 27, 39, and 62.4 GeV, the open and filled (gray) boxes represent the systematic errors in the measurements and the cocktail uncertainties, respectively. The 6% uncertainty from the acceptance correction is not included. For measurements of minimum-bias,0−80% central Au+Au collisions at $\sqrt{s_{{NN}}}$ = 19.6 and 200 GeV, the open boxes represent the total systematic uncertainty in the measurements.
+keywords: # used for searching, possibly multiple values for each keyword
+  - {name: reactions, values: [Au Au --> e+ e-]}
+  - {name: observables, values: [dN/dMee]}
+  - {name: cmenergies, values: [19.6, 27,39, 62.4, 200]} # centre-of-mass energy in GeV
+  - {name: phrases, values: [Dielectron Production]}
+data_file: table4_NA60.yaml
+---
+#additional_resources:
+#- {description: Image file, location: figFigure10B.png}
+#- {description: Thumbnail image file, location: thumb_figFigure10B.png}
+# End of YAML file.

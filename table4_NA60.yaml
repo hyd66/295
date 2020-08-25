@@ -1,0 +1,12 @@
+independent_variables:
+- header: {name: 'sqrt{s_{NN}} [GeV]'}
+  values:
+  - {value: 17.3}
+dependent_variables:
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'NA60_DATA'}
+  values:
+  - value: 7.44E-06
+    errors:
+    - {asymerror: {plus: 2.52E-07, minus: -2.59E-07}, label: 'Data'}

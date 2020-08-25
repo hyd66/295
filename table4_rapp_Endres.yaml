@@ -1,0 +1,30 @@
+independent_variables:
+- header: {name: 'sqrt{s_{NN}} [GeV]'}
+  values:
+  - {value: 17.3}
+  - {value: 19.6}
+  - {value: 27}
+  - {value: 39}
+  - {value: 62.4}
+  - {value: 200}
+dependent_variables:
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'Rapp'}
+  values:
+  - value: 7.04E-06
+  - value: 7.81E-06
+  - value: 8.02E-06
+  - value: 8.15E-06
+  - value: 8.86E-06
+  - value: 1E-05
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'Endres'}
+  values:
+  - value: 7.73E-06
+  - value: 7.09E-06
+  - value: 7.13E-06
+  - value: 7.47E-06
+  - value: 7.78E-06
+  - value: 1.14E-05

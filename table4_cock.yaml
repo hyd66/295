@@ -1,0 +1,20 @@
+independent_variables:
+- header: {name: 'sqrt{s_{NN}} [GeV]'}
+  values:
+  - {value: 27}
+  - {value: 39}
+  - {value: 62.4}
+dependent_variables:
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'Cocktail'}
+  values:
+  - value: 5.65E-06
+    errors:
+    - {asymerror: {plus: 6.39E-07, minus: -6.37E-07}, label: 'cocktail'}
+  - value: 9.506E-06
+    errors:
+    - {asymerror: {plus: 7.54E-07, minus: -7.49E-07}, label: 'cocktail'}
+  - value: 7.851E-06
+    errors:
+    - {asymerror: {plus: 8.49E-07, minus: -8.49E-07}, label: 'cocktail'}

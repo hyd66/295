@@ -1,0 +1,128 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0, high: 0.01}
+  - {low: 0.010, high: 0.020}
+  - {low: 0.020, high: 0.030}
+  - {low: 0.030, high: 0.040}
+  - {low: 0.040, high: 0.050}
+  - {low: 0.050, high: 0.060}
+  - {low: 0.060, high: 0.070}
+  - {low: 0.070, high: 0.080}
+  - {low: 0.080, high: 0.090}
+  - {low: 0.090, high: 0.100}
+  - {low: 0.100, high: 0.110}
+  - {low: 0.110, high: 0.125}
+  - {low: 0.125, high: 0.160}
+  - {low: 0.160, high: 0.250}
+  - {low: 0.250, high: 0.400}
+  - {low: 0.400, high: 0.600}
+  - {low: 0.600, high: 0.715}
+  - {low: 0.715, high: 0.775}
+  - {low: 0.775, high: 0.795}
+  - {low: 0.795, high: 0.840}
+  - {low: 0.840, high: 0.990}
+  - {low: 0.990, high: 1.010}
+  - {low: 1.010, high: 1.020}
+  - {low: 1.020, high: 1.040}
+  - {low: 1.040, high: 1.850}
+  - {low: 1.850, high: 2.825}
+  - {low: 2.825, high: 3.025}
+  - {low: 3.025, high: 3.070}
+  - {low: 3.070, high: 3.100}
+  - {low: 3.100, high: 3.200}
+dependent_variables:
+- header: {name: 'dN/dM/Nevt[1/(GeV/c^2)]'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'data_19.6Gev_stat_Uncert'}
+  values:
+  - value: 2.78
+    errors:
+    - {asymerror: {plus: 0.005, minus: -0.01}, label: 'stat'}
+  - value: 7.914E-01
+    errors:
+    - {asymerror: {plus: 4.2E-03, minus: -4.1E-03}, label: 'stat'}
+  - value: 4.160E-01
+    errors:
+    - {asymerror: {plus: 3.3E-03, minus: -3.4E-03}, label: 'stat'}
+  - value: 2.710E-01
+    errors:
+    - {asymerror: {plus: 2.9E-03, minus: -2.9E-03}, label: 'stat'}
+  - value: 2.036E-01
+    errors:
+    - {asymerror: {plus: 2.7E-03, minus: -2.7E-03}, label: 'stat'}
+  - value: 1.597E-01
+    errors:
+    - {asymerror: {plus: 2.6E-03, minus: -2.6E-03}, label: 'stat'}
+  - value: 1.138E-01
+    errors:
+    - {asymerror: {plus: 2.5E-03, minus: -2.6E-03}, label: 'stat'}
+  - value: 8.172E-02
+    errors:
+    - {asymerror: {plus: 2.51E-03, minus: -2.51E-03}, label: 'stat'}
+  - value: 5.862E-02
+    errors:
+    - {asymerror: {plus: 2.57E-03, minus: -2.58E-03}, label: 'stat'}
+  - value: 3.089E-02
+    errors:
+    - {asymerror: {plus: 2.55E-03, minus: -2.56E-03}, label: 'stat'}
+  - value: 1.958E-02
+    errors:
+    - {asymerror: {plus: 2.66E-03, minus: -2.65E-03}, label: 'stat'}
+  - value: 1.240E-02
+    errors:
+    - {asymerror: {plus: 2.22E-03, minus: -2.23E-03}, label: 'stat'}
+  - value: 1.162E-02
+    errors:
+    - {asymerror: {plus: 1.52E-03, minus: -1.52E-03}, label: 'stat'}
+  - value: 6.583E-03
+    errors:
+    - {asymerror: {plus: 1.046E-03, minus: -1.045E-03}, label: 'stat'}
+  - value: 2.353E-03
+    errors:
+    - {asymerror: {plus: 9.49E-04, minus: -9.49E-04}, label: 'stat'}
+  - value: 2.323E-03
+    errors:
+    - {asymerror: {plus: 9.79E-04, minus: -9.79E-04}, label: 'stat'}
+  - value: 2.448E-03
+    errors:
+    - {asymerror: {plus: 1.157E-03, minus: -1.157E-03}, label: 'stat'}
+  - value: 3.396E-03
+    errors:
+    - {asymerror: {plus: 1.378E-03, minus: -1.378E-03}, label: 'stat'}
+  - value: 6.432E-03
+    errors:
+    - {asymerror: {plus: 2.219E-03, minus: -2.219E-03}, label: 'stat'}
+  - value: 1.321E-03
+    errors:
+    - {asymerror: {plus: 1.383E-03, minus: -0.001321}, label: 'stat'}
+  - value: 4.994E-04
+    errors:
+    - {asymerror: {plus: 6.296E-04, minus: -0.0004994}, label: 'stat'}
+  - value: 3.994E-03
+    errors:
+    - {asymerror: {plus: 1.443E-03, minus: -1.443E-03}, label: 'stat'}
+  - value: 1.062E-02
+    errors:
+    - {asymerror: {plus: 2E-03, minus: -2E-03}, label: 'stat'}
+  - value: 2.835E-03
+    errors:
+    - {asymerror: {plus: 1.36E-03, minus: -1.36E-03}, label: 'stat'}
+  - value: 1.495E-04
+    errors:
+    - {asymerror: {plus: 1.095E-04, minus: -1.0957E-04}, label: 'stat'}
+  - value: 1.750E-05
+    errors:
+    - {asymerror: {plus: 1.930E-05, minus: -0.0000175}, label: 'stat'}
+  - value: 9.100E-06
+    errors:
+    - {asymerror: {plus: 1.200E-05, minus: -0.0000091}, label: 'stat'}
+  - value: 4.400E-05
+    errors:
+    - {asymerror: {plus: 2.590E-05, minus: -2.590E-05}, label: 'stat'}
+  - value: 1.032E-04
+    errors:
+    - {asymerror: {plus: 2.94E-05, minus: -2.935E-05}, label: 'stat'}
+  - value: 2.030E-05
+    errors:
+    - {asymerror: {plus: 1.390E-05, minus: -1.390E-05}, label: 'stat'}

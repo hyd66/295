@@ -1,0 +1,33 @@
+independent_variables:
+- header: {name: 'sqrt{s_{NN}} [GeV]'}
+  values:
+  - {value: 19.6}
+  - {value: 27}
+  - {value: 39}
+  - {value: 62.4}
+  - {value: 200}
+dependent_variables:
+- header: {name: '(dN/dy) / (dN_{ch}/dy)'}
+  qualifiers:
+  - {name: 'sqrt{s_{NN}} [GeV]', value: 'Data'}
+  values:
+  - value: 7E-06
+    errors:
+    - {asymerror: {plus: 2.836E-06, minus: -2.827E-06}, label: 'stat'}
+    - {asymerror: {plus: 1.196E-06, minus: -1.187E-06}, label: 'sys'}
+  - value: 5.65E-06
+    errors:
+    - {asymerror: {plus: 2.072E-06, minus: -2.07E-06}, label: 'stat'}
+    - {asymerror: {plus: 7.19E-07, minus: -7.17E-07}, label: 'sys'}
+  - value: 9.506E-06
+    errors:
+    - {asymerror: {plus: 1.284E-06, minus: -1.283E-06}, label: 'stat'}
+    - {asymerror: {plus: 1.024E-06, minus: -1.02E-06}, label: 'sys'}
+  - value: 7.851E-06
+    errors:
+    - {asymerror: {plus: 1.782E-06, minus: -1.782E-06}, label: 'stat'}
+    - {asymerror: {plus: 1.219E-06, minus: -1.219E-06}, label: 'sys'}
+  - value: 8.290E-06
+    errors:
+    - {asymerror: {plus: 1.425E-06, minus: -1.426E-06}, label: 'stat'}
+    - {asymerror: {plus: 1.672E-06, minus: -1.673E-06}, label: 'sys'}

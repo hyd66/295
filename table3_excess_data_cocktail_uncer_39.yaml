@@ -1,0 +1,50 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0.175, high: 0.225}
+  - {low: 0.325, high: 0.375}
+  - {low: 0.460, high: 0.510}
+  - {low: 0.635, high: 0.685}
+  - {low: 0.800, high: 0.850}
+  - {low: 1.025, high: 1.075}
+  - {low: 1.625, high: 1.675}
+dependent_variables:
+- header: {name: 'Excess/(dN_ch/dy) [1/(20 MeV/c^2)]'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'excess_data_to_cocktail_39Gev'}
+  values:
+  - value: 1.31E-06
+    errors:
+    - {asymerror: {plus: 6.95E-07, minus: -6.862E-07}, label: 'total'}
+    - {asymerror: {plus: 3.35E-07, minus: -3.263E-07}, label: 'sys'}
+    - {asymerror: {plus: 3.12E-07, minus: -3.03E-07}, label: 'stat'}
+  - value: 1.510E-06
+    errors:
+    - {asymerror: {plus: 2.29E-07, minus: -2.28E-07}, label: 'total'}
+    - {asymerror: {plus: 1.85E-07, minus: -1.84E-07}, label: 'sys'}
+    - {asymerror: {plus: 3.84E-07, minus: -3.83E-07}, label: 'stat'}
+  - value: 7.384E-07
+    errors:
+    - {asymerror: {plus: 6.01E-08, minus: -6.01E-08}, label: 'total'}
+    - {asymerror: {plus: 7.78E-08, minus: -7.77E-08}, label: 'sys'}
+    - {asymerror: {plus: 1.314E-07, minus: -1.313E-07}, label: 'stat'}
+  - value: 3.588E-07
+    errors:
+    - {asymerror: {plus: 2.65E-08, minus: -2.64E-08}, label: 'total'}
+    - {asymerror: {plus: 4E-08, minus: -3.99E-08}, label: 'sys'}
+    - {asymerror: {plus: 7.04E-08, minus: -7.03E-08}, label: 'stat'}
+  - value: 1.759E-07
+    errors:
+    - {asymerror: {plus: 5.6E-08, minus: -5.6E-08}, label: 'total'}
+    - {asymerror: {plus: 3.53E-08, minus: -3.53E-08}, label: 'sys'}
+    - {asymerror: {plus: 5.21E-08, minus: -5.21E-08}, label: 'stat'}
+  - value: 9.753E-08
+    errors:
+    - {asymerror: {plus: 2.817E-08, minus: -2.82E-08}, label: 'total'}
+    - {asymerror: {plus: 2.257E-08, minus: -2.255E-08}, label: 'sys'}
+    - {asymerror: {plus: 2.357E-08, minus: -2.355E-08}, label: 'stat'}
+  - value: 4.189E-09
+    errors:
+    - {asymerror: {plus: 3.915E-09, minus: -3.9145E-09}, label: 'total'}
+    - {asymerror: {plus: 3.16E-09, minus: -3.16E-09}, label: 'sys'}
+    - {asymerror: {plus: 6.131E-09, minus: -0.000000004189}, label: 'stat'}

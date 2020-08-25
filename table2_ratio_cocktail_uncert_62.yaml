@@ -1,0 +1,43 @@
+independent_variables:
+- header: {name: 'M[Gev/c^2]'}
+  values:
+  - {low: 0.1, high: 0.2}
+  - {low: 0.200, high: 0.400}
+  - {low: 0.400, high: 0.590}
+  - {low: 0.590, high: 0.750}
+  - {low: 0.750, high: 0.900}
+  - {low: 0.900, high: 1.150}
+  - {low: 1.150, high: 1.800}
+dependent_variables:
+- header: {name: 'Ratio'}
+  qualifiers:
+  - {name: 'M[Gev/c^2]', value: 'ratio_data_to_cocktail_62Gev'}
+  values:
+  - value: 1.57
+    errors:
+    - {asymerror: {plus: 0.181, minus: -0.179}, label: 'sys'}
+    - {asymerror: {plus: 0.055, minus: -0.053}, label: 'stat'}
+  - value: 1.882E+00
+    errors:
+    - {asymerror: {plus: 2.22E-01, minus: -2.22E-01}, label: 'sys'}
+    - {asymerror: {plus: 1.7E-01, minus: -1.69E-01}, label: 'stat'}
+  - value: 3.810E+00
+    errors:
+    - {asymerror: {plus: 4.79E-01, minus: -4.78E-01}, label: 'sys'}
+    - {asymerror: {plus: 9.08E-01, minus: -9.08E-01}, label: 'stat'}
+  - value: 7.787E+00
+    errors:
+    - {asymerror: {plus: 9.33E-01, minus: -9.33E-01}, label: 'sys'}
+    - {asymerror: {plus: 1.256E+00, minus: -1.256E+00}, label: 'stat'}
+  - value: 7.001E+00
+    errors:
+    - {asymerror: {plus: 1.179E+00, minus: -1.179E+00}, label: 'sys'}
+    - {asymerror: {plus: 1.275E+00, minus: -1.275E+00}, label: 'stat'}
+  - value: 1.830E+00
+    errors:
+    - {asymerror: {plus: 6.69E-01, minus: -6.69E-01}, label: 'sys'}
+    - {asymerror: {plus: 9.77E-01, minus: -9.771E-01}, label: 'stat'}
+  - value: 2.152E+00
+    errors:
+    - {asymerror: {plus: 3.54E-01, minus: -3.55E-01}, label: 'sys'}
+    - {asymerror: {plus: 8.26E-01, minus: -8.27E-01}, label: 'stat'}
